@@ -3,7 +3,7 @@
   "variables": [{
     "names": ["takasi-user-email", "takasi-user-pwd"],
     "values": [
-      ["calamas@gmail.com", "caLamas123!"]
+      ["calamas@gmail.com", "caLamas123!!"]
     ]}
   ]
 }
